@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝙉𝙤𝙩𝙅𝙝𝙪𝙯ᙆ  ᷦ×͜×'
-global.author = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
+global.packname = 'BOT.POSEIDON  ᷦ×͜×'
+global.author = 'POSEIDON  ᷦ×͜×'
 
 
 //global.wait = '*Esperé un momento..*'
